@@ -15,11 +15,9 @@ Ademas del informe tecnico en PDF, deben entregarse archivos de soporte:
 ## Estructura propuesta
 
 - `informe/`: PDF final del informe y, si se desea, una copia exportada del documento.
-- `latex/`: fuente LaTeX de Overleaf, archivos `.tex`, bibliografia e imagenes usadas.
 - `soportes/`: Excel editable con matrices, presupuestos e interfaces.
 - `diagramas/exportados/`: diagramas finales en PNG o PDF.
 - `diagramas/editables/`: archivos editables de diagramas o enlaces documentados a Canva.
-- `calculos/`: calculos adicionales, hojas auxiliares o notas de dimensionamiento.
 - `fuentes/`: lista organizada de fuentes, links y decisiones que soportan.
 - `datasheets/`: hojas de datos descargadas, separadas por subsistema.
 
