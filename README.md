@@ -8,7 +8,3 @@ Ademas del informe tecnico en PDF, deben entregarse archivos de soporte:
 - Diagramas de arquitectura en formato editable y exportados como imagen.
 - Enlaces a los diagramas editables y referencias usadas como soporte.
 
-## Pendientes principales
-
-- Exportar el informe final desde Overleaf como PDF y guardarlo en `informe/`.
-- Revisar que el Excel final sea el actualizado, especialmente si el archivo original estaba abierto y se genero una copia.
